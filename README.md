@@ -8,5 +8,5 @@ Example usage: `agiview2bmp VIEW.000 VIEW.014`
 
 Each cel within a loop is laid out horizontally, and each loop in the View is placed in its own row, like so:
 
-<img src="VIEW.000.bmp" alt="Output of the program, showing loop and cel layout" style="zoom:300%;">
+<img src="VIEW.000.bmp" alt="Output of the program, showing loop and cel layout" width='216'>
 
